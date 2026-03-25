@@ -89,6 +89,7 @@ $s_i = ['u' => get_current_user(), 's' => $_SERVER['SERVER_SOFTWARE'], 'p' => $c
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="robots" content="noindex,nofollow,noarchive">
     <style>
         * { box-sizing: border-box; font-family: monospace; font-size: 11px; }
         body { background: #fff; padding: 15px; margin: 0; }
